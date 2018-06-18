@@ -48,5 +48,9 @@
     "it": "プラス(+)を含む入力値に対して正しいハッシュ値が出力できる",
     "input": ["fizz+buzz"],
     "output": "a7300137ff97e7c26467b5b1aa8c53d04df284d67ff1f2088bba24e0fbb5b72f"
+  },
+  {
+    "q": ["hoge"],
+    "hash": "a7300137ff97e7c26467b5b1aa8c53d04df284d67ff1f2088bba24e0fbb5b72f"
   }
 ]
